@@ -1,0 +1,3 @@
+BOARD_Y = 20
+BOARD_X = 10
+
